@@ -7,7 +7,7 @@ print("addition of a and b")
 sub();
 {
 printf("substraction of a and b")
-}
+
 mul();
 {
 printf("multiplication of a and b")
