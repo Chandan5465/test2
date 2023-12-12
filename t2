@@ -5,6 +5,8 @@ add();
 {
 print("addition of a and b")
 sub();
+{
+printf("substraction of a and b")
 mul();
 div();
 }
